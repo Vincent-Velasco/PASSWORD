@@ -1,0 +1,12 @@
+VESSEL_ID,CARGO_ID,SHIPMENT_ID,COMPLAINT_TIME,ISSUE_TYPE,DESCRIPTION
+VSL-100,CRG-200,SHP-VSL-100-1021,10/22/2025 04:00:00,Late Arrival,Customer reported an issue regarding shipment handling.
+VSL-101,CRG-201,SHP-VSL-101-1022,10/23/2025 15:00:00,Late Arrival,Customer reported an issue regarding shipment handling.
+VSL-100,CRG-200,SHP-VSL-100-1024,10/25/2025 03:00:00,Late Arrival,Customer reported an issue regarding shipment handling.
+VSL-102,CRG-202,SHP-VSL-102-1024,10/26/2025 01:00:00,Late Arrival,Customer reported an issue regarding shipment handling.
+VSL-103,CRG-203,SHP-VSL-103-1024,10/25/2025 08:00:00,Missing Documentation,Customer reported an issue regarding shipment handling.
+VSL-104,CRG-204,SHP-VSL-104-1024,10/25/2025 14:00:00,Damaged Cargo,Customer reported an issue regarding shipment handling.
+VSL-100,CRG-200,SHP-VSL-100-1025,10/26/2025 08:00:00,Late Arrival,Customer reported an issue regarding shipment handling.
+VSL-103,CRG-203,SHP-VSL-103-1025,10/26/2025 20:00:00,Damaged Cargo,Customer reported an issue regarding shipment handling.
+VSL-100,CRG-200,SHP-VSL-100-1026,10/28/2025 00:00:00,Missing Documentation,Customer reported an issue regarding shipment handling.
+VSL-101,CRG-201,SHP-VSL-101-1026,10/27/2025 06:00:00,Missing Documentation,Customer reported an issue regarding shipment handling.
+VSL-102,CRG-202,SHP-VSL-102-1026,10/27/2025 09:00:00,Missing Documentation,Customer reported an issue regarding shipment handling.
